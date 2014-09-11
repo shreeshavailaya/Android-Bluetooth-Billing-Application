@@ -3,12 +3,19 @@ Android-Bluetooth-Billing-Application
 
 Android application that communicates with the near by Bluetooth printer for printing the bills. 
 
+
+
 The Goal of the Application in brief:
+==========================================
 
 1.To build a base for small scale POS application.
+
 2.To be able to print the receipts anywhere with portable Bluetooth Printer.
-3.Introduce SMS features for tracking the ongoing sales
+
+3.Introduce SMS features for tracking the ongoing sales.
+
 4.To get instant reports for daily,monthly,yearly sales there by shop owner can analyse the ongoing trends.
+
 5.To give easy way for choosing the menu items,updating the menu items and price list.
 
 Components of the application:
